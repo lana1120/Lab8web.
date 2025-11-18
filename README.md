@@ -13,7 +13,8 @@
 **CREATE DATABASE latihan1**
 
 
-<img width="271" height="595" alt="Cuplikan layar 2025-11-18 184310" src="https://github.com/user-attachments/assets/0b1f318e-d755-4003-8c00-24b3721d5688" />
+<img width="271" height="595" alt="Cuplikan layar 2025-11-18 184310" src="https://github.com/user-attachments/assets/05fe7ccc-db8f-4440-9dec-a2ebe67bfd77" />
+
 
 
 # Membuat Tabel 
@@ -34,8 +35,8 @@ stok int(4)
 Output
 
 
+<img width="1895" height="649" alt="Cuplikan layar 2025-11-18 183755" src="https://github.com/user-attachments/assets/93230d80-6e58-44da-bb6b-a82fe97d6795" />
 
-<img width="1895" height="649" alt="Cuplikan layar 2025-11-18 183755" src="https://github.com/user-attachments/assets/b1e95d38-4210-4a56-a28f-05f7f5956e54" />
 
 
 
@@ -53,7 +54,7 @@ Output
 
 
 
-<img width="1919" height="662" alt="Cuplikan layar 2025-11-18 183822" src="https://github.com/user-attachments/assets/80cc8ce9-493c-49b4-b662-99c0f120065e" />
+<img width="1919" height="662" alt="Cuplikan layar 2025-11-18 183822" src="https://github.com/user-attachments/assets/53a1381c-9eaa-4fd5-a018-47d406d5a6a8" />
 
 
 
