@@ -63,12 +63,7 @@ Output
 Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)
 
 
-
-
-<img width="474" height="314" alt="image" src="https://github.com/user-attachments/assets/b85afc5d-025d-4669-b6fd-63218ce3c739" />
-
-
-
+<img width="390" height="315" alt="Cuplikan layar 2025-11-18 185853" src="https://github.com/user-attachments/assets/8148b688-751e-4252-8a2a-c35bcc76afb1" />
 
 
 
