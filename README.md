@@ -93,14 +93,7 @@ if ($conn == false)
 
 Output
 
-
-
-
-
-<img width="764" height="253" alt="Screenshot 2025-11-17 195707" src="https://github.com/user-attachments/assets/9178b065-f1c0-47dc-83cd-3bb4d971608e" />
-
-
-
+<img width="575" height="181" alt="Cuplikan layar 2025-11-18 190447" src="https://github.com/user-attachments/assets/88b5c13a-16ca-4c2c-a5ed-7c7cc28eb898" />
 
 
 
@@ -179,11 +172,7 @@ Output
 
 
 
-
-<img width="717" height="367" alt="Screenshot 2025-11-17 200448" src="https://github.com/user-attachments/assets/e6018349-ec70-4d0a-b9c4-5367e2dcf0ce" />
-
-
-
+<img width="1920" height="1200" alt="Cuplikan layar 2025-11-18 190105" src="https://github.com/user-attachments/assets/5d3a786f-d470-403a-8337-9e4e369df692" />
 
 
 
@@ -456,10 +445,10 @@ header('location: index.php');
 Output
 
 
+<img width="1920" height="1200" alt="Cuplikan layar 2025-11-18 190642" src="https://github.com/user-attachments/assets/f654212c-8a1f-4bc7-a969-be2653485283" />
 
 
 
-<img width="683" height="288" alt="Screenshot 2025-11-17 221410" src="https://github.com/user-attachments/assets/f7202684-9352-4bdf-83db-124794905aa2" />
 
 
 
